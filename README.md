@@ -5,7 +5,7 @@ Simple one-liner tool to add account to Prisma Cloud
 May use export.sh for environment variables or lambda 
 
 Or use available commandline arguments
-
+```
   -h, --help            show this help message and exit
   -u USERNAME, --username USERNAME
                         Prisma Cloud username or access key id
@@ -29,7 +29,7 @@ Or use available commandline arguments
                         app.eu, app.anz, app.gov
   -n, --updateacct      This flag will cause an existing account to be updated
                         rather than created
-
+```
 
 Example
 
