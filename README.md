@@ -29,8 +29,8 @@ Or use available commandline arguments
                         app.eu, app.anz, app.gov
   -n, --updateacct      This flag will cause an existing account to be updated
                         rather than created
-```
 
 Example
 
 -u some@email.com -p foo -c Widgets Inc -a Widget Prod -g "Default Account Group" -e AWSEXTERNALID -r PrismaReadOnlyRole --tenant app
+```
